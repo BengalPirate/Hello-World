@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <ctime>
 
-//This is a modified file
 int main() {
     // Initialize random seed
     std::srand(static_cast<unsigned int>(std::time(0)));
